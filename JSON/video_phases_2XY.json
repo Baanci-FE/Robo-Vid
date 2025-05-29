@@ -1,0 +1,277 @@
+[
+    {
+        "start_frame": 0,
+        "end_frame": 21,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 21,
+        "end_frame": 44,
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 44,
+        "end_frame": 52,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 52,
+        "end_frame": 66,
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 66,
+        "end_frame": 74,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 74,
+        "end_frame": 86,
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 86,
+        "end_frame": 105,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 105,
+        "end_frame": 117,
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 117,
+        "end_frame": 126,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 126,
+        "end_frame": 140,
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 140,
+        "end_frame": 151,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 151,
+        "end_frame": 162,
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 162,
+        "end_frame": 179,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 179,
+        "end_frame": 189,
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 189,
+        "end_frame": 199,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 199,
+        "end_frame": 205,
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 205,
+        "end_frame": 216,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 216,
+        "end_frame": 233,
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 233,
+        "end_frame": 249,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 249,
+        "end_frame": 257,
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 257,
+        "end_frame": 270,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 270,
+        "end_frame": 282,
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 282,
+        "end_frame": 289,
+        "label": "pranos_pina"
+    },
+    {
+        "start_frame": 289,
+        "end_frame": 300,
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 300,
+        "end_frame": 314,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 314,
+        "end_frame": 354,
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 354,
+        "end_frame": 367,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 367,
+        "end_frame": 383,
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 383,
+        "end_frame": 394,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 394,
+        "end_frame": 403,
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 403,
+        "end_frame": 412,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 412,
+        "end_frame": 422,
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 422,
+        "end_frame": 430,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 430,
+        "end_frame": 442,
+        "label": "prijemanje_pina"
+    },
+    {
+        "start_frame": 442,
+        "end_frame": 450,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 450,
+        "end_frame": 461,
+        "label": "odlaganje_pina"
+    },
+    {
+        "start_frame": 461,
+        "end_frame": 471,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 471,
+        "end_frame": 497,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 497,
+        "end_frame": 507,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 507,
+        "end_frame": 524,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 524,
+        "end_frame": 537,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 537,
+        "end_frame": 554,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 554,
+        "end_frame": 565,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 565,
+        "end_frame": 581,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 581,
+        "end_frame": 597,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 597,
+        "end_frame": 611,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 611,
+        "end_frame": 627,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 627,
+        "end_frame": 640,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 640,
+        "end_frame": 649,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 649,
+        "end_frame": 664,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 664,
+        "end_frame": 679,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 679,
+        "end_frame": 695,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 695,
+        "end_frame": 709,
+        "label": "prazna_roka"
+    },
+    {
+        "start_frame": 709,
+        "end_frame": 731,
+        "label": "prenos_pina"
+    },
+    {
+        "start_frame": 731,
+        "end_frame": 737,
+        "label": "prazna_roka"
+    }    
+]
